@@ -32,6 +32,7 @@ expr3.l
 int yywrap() {
     return 1;
 ```
+
 ```
 expr3.y
 %{
@@ -73,7 +74,6 @@ int main() {
     return 0;
 }
 ```
-
 
 ## OUTPUT
 <img width="1218" height="599" alt="image" src="https://github.com/user-attachments/assets/7004804c-e159-4b77-b77a-8a858fb8bd8d" />
